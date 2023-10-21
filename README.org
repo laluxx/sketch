@@ -1,0 +1,15 @@
+#+title: Readme
+
+
+* Sketch
+
+Sketch is a direct-to-screen drawing tool for X11 environments. Here's what it offers:
+
+** Overlay Mode
+   Your entire screen becomes a canvas, allowing you to draw without being restricted by window boundaries.
+
+** Instant Access
+   The Ctrl + Space keybind activates and deactivates Sketch globally. No need to switch applications or disrupt your workflow.
+
+** Transparent Integration
+   Sketch is there when you need it and invisible when you don't. It fits seamlessly into your desktop experience.
